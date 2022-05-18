@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635974548 source:d:\carla\documents\carla\utn\primer_anio\s.operativos\trabajos_practicos\tp_semaforos\ej.9.semaforosmirthalebig\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	<windows.h>
+
